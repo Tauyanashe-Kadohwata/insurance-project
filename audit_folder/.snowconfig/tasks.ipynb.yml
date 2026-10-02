@@ -1,0 +1,5 @@
+location:
+  database: INSURANCE_PROJECT
+  schema: AUDIT
+  name: CODE_BUNDLE_6E337920
+role: ACCOUNTADMIN
